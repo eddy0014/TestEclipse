@@ -7,6 +7,8 @@ public class TestEclipse {
 		
 		//This is the first change
 		System.out.println("Hello");
+		
+		//This is part of second branch
 	}
 
 }
